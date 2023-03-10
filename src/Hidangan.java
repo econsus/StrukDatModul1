@@ -10,7 +10,7 @@ public class Hidangan
         this.namaHidangan = namaHidangan;
     }
 
-    public String Disantap()
+    public String disantap()
     {
         return "Makanan Dihidangkan";
     }

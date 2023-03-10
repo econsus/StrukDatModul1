@@ -1,6 +1,6 @@
 public class Minuman extends Hidangan
 {
-    public String Disantap()
+    public String disantap()
     {
         return this.getNamaHidangan() + " diminum";
     }
